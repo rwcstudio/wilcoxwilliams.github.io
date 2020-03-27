@@ -21,7 +21,7 @@ if(IsInjected($visitor_email))
     exit;
 }
 
-$email_from = 'hello@wilcoxwilliams.com';//<== update the email address
+$email_from = 'hello@rwc.studio';//<== update the email address
 $email_subject = "[Message from Web Site]";
 $email_body = "New message from $name\n".
     "Email: $visitor_email \n Company: $company \n Message: $message \n".
