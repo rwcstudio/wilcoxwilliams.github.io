@@ -3,10 +3,41 @@
 layout: default
 ---
 {% include header.html %}
-<ul>
+
+<!-- STANDARD -->
+<section class="module module-parallax bg-dark-60" data-background="assets/images/hero-elliott.jpg">
+		<div class="container">
+				<div class="row">
+					  <div class="col-sm-12 col-md-10 col-lg-10">
+					      <h2 class="font-serif">
+						        Design is a powerful way of creating new business, shaping new pathways and strategies, connecting with people, and cultural invention. Our heads are always in the future and we want to show you the way.
+					      </h2>
+					  </div>
+				</div>
+		</div>
+</section>	
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+		<section class="module">
+			<div class="container">
+				<!-- MODULE TITLE -->
+				<div class="row">
+					<div class="col-sm-12 col-md-9 col-lg-9"><hr>
+						  <h3 class="font-alt">
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+						<h4>{{ post.subtitle }}</h4>
+						<p>
+                {{ post.excerpt }}
+            </p>
+						<h6>{{ post.date}} | {{ post.tags }}</h6>
+					</div>
+					<div class="col-sm-0 col-md-3 col-lg-3">
+						&emsp;
+					</div>
+				</div>
+			</div>
+		</section>
+
   {% endfor %}
-</ul>
+{% include footer.html %}
