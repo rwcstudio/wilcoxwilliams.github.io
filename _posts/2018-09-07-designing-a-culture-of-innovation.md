@@ -1,8 +1,10 @@
 ---
-layout: category-post
+layout: post
 title:  "Designing a Culture of Innovation"
 date:   2018-09-07
 categories: work
+subtitle: How strategy, culture, and design can create new business lines in a well established company.
+tags: case-study
 ---
 
 *How strategy, culture, and design can create new business lines in a well established company.*
