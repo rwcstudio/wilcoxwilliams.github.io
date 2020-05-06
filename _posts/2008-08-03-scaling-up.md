@@ -1,9 +1,10 @@
 ---
-layout: category-post
+layout: post
 title:  "Scaling Up"
 date:   2008-08-3
 categories: work
 image_fullwidth: "/assets/images/upmc1.png"
+tags: case-study
 ---
 *How can design thinking and methods help organizations better understand their challenges and transform from the ground up?*
 

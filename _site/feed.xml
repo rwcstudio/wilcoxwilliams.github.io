@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T16:58:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/09/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-09-04T19:41:54-04:00</published><updated>2019-09-04T19:41:54-04:00</updated><id>http://localhost:4000/jekyll/update/2019/09/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/09/04/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>elliott</name></author><category term="test" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Designing a Culture of Innovation</title><link href="http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation.html" rel="alternate" type="text/html" title="Designing a Culture of Innovation" /><published>2018-09-07T00:00:00-04:00</published><updated>2018-09-07T00:00:00-04:00</updated><id>http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation</id><content type="html" xml:base="http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation.html">&lt;p&gt;&lt;em&gt;How strategy, culture, and design can create new business lines in a well established company.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt; Process and Planning, Strategy, Technology, Entrepreneurship&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-06T18:45:03-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Designing a Culture of Innovation</title><link href="http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation.html" rel="alternate" type="text/html" title="Designing a Culture of Innovation" /><published>2018-09-07T00:00:00-04:00</published><updated>2018-09-07T00:00:00-04:00</updated><id>http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation</id><content type="html" xml:base="http://localhost:4000/work/2018/09/07/designing-a-culture-of-innovation.html">&lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt; Process and Planning, Strategy, Technology, Entrepreneurship&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Goals:&lt;/strong&gt; Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies.&lt;/p&gt;
 
@@ -74,269 +60,7 @@
 &lt;p&gt;&lt;strong&gt;Frame:&lt;/strong&gt; Understanding goals of the subsidiary; familiarization with connections and roles of business units. &lt;br /&gt;
 &lt;strong&gt;Research:&lt;/strong&gt; A thorough review of existing work and initaitives. &lt;br /&gt;
 &lt;strong&gt;Ideate:&lt;/strong&gt; Prototyped the Pitch Fest and implemented a plan for iterative improvements involving all stakeholders. &lt;br /&gt;
-&lt;strong&gt;Build:&lt;/strong&gt; Generated workstreams to incubate ideas that resonated in Pitch Fest and other cross- company events.&lt;/p&gt;</content><author><name></name></author><category term="case-study" /><summary type="html">How strategy, culture, and design can create new business lines in a well established company.</summary></entry><entry><title type="html">Markdown sample</title><link href="http://localhost:4000/2016/09/04/markdown-sample.html" rel="alternate" type="text/html" title="Markdown sample" /><published>2016-09-04T00:00:00-04:00</published><updated>2016-09-04T00:00:00-04:00</updated><id>http://localhost:4000/2016/09/04/markdown-sample</id><content type="html" xml:base="http://localhost:4000/2016/09/04/markdown-sample.html">&lt;h3 id=&quot;markdown-test-document&quot;&gt;Markdown test document&lt;/h3&gt;
-
-&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;. &lt;a href=&quot;https://github.com&quot;&gt;Links&lt;/a&gt; should be have dotted underlines and solid underlines on hover.&lt;/p&gt;
-
-&lt;p&gt;There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p&gt;
-
-&lt;p&gt;There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There should be no margin above this first sentence.&lt;/p&gt;
-
-  &lt;p&gt;Blockquotes should be a italicized with a gray border along the left side.&lt;/p&gt;
-
-  &lt;p&gt;There should be no margin below this final sentence.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;p&gt;This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;p&gt;This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This is a code block following a Heading.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This is an unordered list following a Heading.&lt;/li&gt;
-  &lt;li&gt;This is an unordered list following a Heading.&lt;/li&gt;
-  &lt;li&gt;This is an unordered list following a Heading.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;This is an ordered list following a Heading.&lt;/li&gt;
-  &lt;li&gt;This is an ordered list following a Heading.&lt;/li&gt;
-  &lt;li&gt;This is an ordered list following a Heading.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;What&lt;/th&gt;
-      &lt;th&gt;Follows&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A table&lt;/td&gt;
-      &lt;td&gt;A Heading&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A table&lt;/td&gt;
-      &lt;td&gt;A Heading&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A table&lt;/td&gt;
-      &lt;td&gt;A Heading&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;There’s a horizontal rule above and below this.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here is an unordered list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Salt-n-Pepa&lt;/li&gt;
-  &lt;li&gt;Bel Biv DeVoe&lt;/li&gt;
-  &lt;li&gt;Kid ‘N Play&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And an ordered list:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Michael Jackson&lt;/li&gt;
-  &lt;li&gt;Michael Bolton&lt;/li&gt;
-  &lt;li&gt;Michael Bublé&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;And a nested list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Jackson 5
-    &lt;ul&gt;
-      &lt;li&gt;Michael&lt;/li&gt;
-      &lt;li&gt;Tito&lt;/li&gt;
-      &lt;li&gt;Jackie&lt;/li&gt;
-      &lt;li&gt;Marlon&lt;/li&gt;
-      &lt;li&gt;Jermaine&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;TMNT
-    &lt;ul&gt;
-      &lt;li&gt;Leonardo&lt;/li&gt;
-      &lt;li&gt;Michelangelo&lt;/li&gt;
-      &lt;li&gt;Donatello&lt;/li&gt;
-      &lt;li&gt;Raphael&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Definition lists can be used with HTML syntax. Definition terms are bold and italic.&lt;/p&gt;
-
-&lt;dl&gt;
-    &lt;dt&gt;Name&lt;/dt&gt;
-    &lt;dd&gt;Godzilla&lt;/dd&gt;
-    &lt;dt&gt;Born&lt;/dt&gt;
-    &lt;dd&gt;1952&lt;/dd&gt;
-    &lt;dt&gt;Birthplace&lt;/dt&gt;
-    &lt;dd&gt;Japan&lt;/dd&gt;
-    &lt;dt&gt;Color&lt;/dt&gt;
-    &lt;dd&gt;Green&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Tables should have bold headings and alternating shaded rows.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Artist&lt;/th&gt;
-      &lt;th&gt;Album&lt;/th&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Michael Jackson&lt;/td&gt;
-      &lt;td&gt;Thriller&lt;/td&gt;
-      &lt;td&gt;1982&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Prince&lt;/td&gt;
-      &lt;td&gt;Purple Rain&lt;/td&gt;
-      &lt;td&gt;1984&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Beastie Boys&lt;/td&gt;
-      &lt;td&gt;License to Ill&lt;/td&gt;
-      &lt;td&gt;1986&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;If a table is too wide, it should condense down and/or scroll horizontally.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Artist&lt;/th&gt;
-      &lt;th&gt;Album&lt;/th&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;Label&lt;/th&gt;
-      &lt;th&gt;Awards&lt;/th&gt;
-      &lt;th&gt;Songs&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Michael Jackson&lt;/td&gt;
-      &lt;td&gt;Thriller&lt;/td&gt;
-      &lt;td&gt;1982&lt;/td&gt;
-      &lt;td&gt;Epic Records&lt;/td&gt;
-      &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-      &lt;td&gt;Wanna Be Startin’ Somethin’, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Prince&lt;/td&gt;
-      &lt;td&gt;Purple Rain&lt;/td&gt;
-      &lt;td&gt;1984&lt;/td&gt;
-      &lt;td&gt;Warner Brothers Records&lt;/td&gt;
-      &lt;td&gt;Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td&gt;
-      &lt;td&gt;Let’s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I’m a Star, Purple Rain&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Beastie Boys&lt;/td&gt;
-      &lt;td&gt;License to Ill&lt;/td&gt;
-      &lt;td&gt;1986&lt;/td&gt;
-      &lt;td&gt;Mercury Records&lt;/td&gt;
-      &lt;td&gt;noawardsbutthistablecelliswide&lt;/td&gt;
-      &lt;td&gt;Rhymin &amp;amp; Stealin, The New Style, She’s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Code snippets like &lt;code class=&quot;highlighter-rouge&quot;&gt;var foo = &quot;bar&quot;;&lt;/code&gt; can be shown inline.&lt;/p&gt;
-
-&lt;p&gt;Also, &lt;code class=&quot;highlighter-rouge&quot;&gt;this should vertically align&lt;/code&gt; &lt;del&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;with this&lt;/code&gt;&lt;/del&gt; &lt;del&gt;and this&lt;/del&gt;.&lt;/p&gt;
-
-&lt;p&gt;Code can also be shown in a block element.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;var foo = &quot;bar&quot;;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Code can also use syntax highlighting.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-Javascript&quot;&gt;var foo = &quot;bar&quot;;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-Javascript&quot;&gt;var foo = &quot;The same thing is true for code with syntax highlighting. A single line of code should horizontally scroll if it is really long.&quot;;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Inline code inside table cells should still be distinguishable.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Language&lt;/th&gt;
-      &lt;th&gt;Code&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Javascript&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;var foo = &quot;bar&quot;;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ruby&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;foo = &quot;bar&quot;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Small images should be shown at their actual size.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placekitten.com/g/300/200/&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placekitten.com/g/1200/800/&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This is the final element on the page and there should be no margin below this.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- %enddocs --&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;./LICENSE&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Markdown test document</summary></entry><entry><title type="html">Designing for Collective Accountability</title><link href="http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm.html" rel="alternate" type="text/html" title="Designing for Collective Accountability" /><published>2015-11-25T00:00:00-05:00</published><updated>2015-11-25T00:00:00-05:00</updated><id>http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm</id><content type="html" xml:base="http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm.html">&lt;p&gt;There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.&lt;/p&gt;
+&lt;strong&gt;Build:&lt;/strong&gt; Generated workstreams to incubate ideas that resonated in Pitch Fest and other cross- company events.&lt;/p&gt;</content><author><name></name></author><category term="case-study" /><summary type="html">Themes: Process and Planning, Strategy, Technology, Entrepreneurship</summary></entry><entry><title type="html">Designing for Collective Accountability</title><link href="http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm.html" rel="alternate" type="text/html" title="Designing for Collective Accountability" /><published>2015-11-25T00:00:00-05:00</published><updated>2015-11-25T00:00:00-05:00</updated><id>http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm</id><content type="html" xml:base="http://localhost:4000/work/2015/11/25/a-project-template-for-a-design-firm.html">&lt;p&gt;There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt; Internal Service Design, Operations, Project Management, Process and Collaboration&lt;/p&gt;
 
@@ -394,206 +118,110 @@ concept was that if everyone in the organization new that Tommy (for example)
 had a project that was 10k over-spent, Tommy would work hard to fix that, and
 that the organization would do a better job of self regulation through instant
 feedback. I considered the project a success in a single moment. After three
-weeks of HTTP Requests and Perl code (yes, I actually coded it, and yes in Perl), I walked over to the CFO’s office and showed her a chart of every single project currently going on. She asked one question “Why is that one red?”, I answered, she set a meeting.&lt;/p&gt;</content><author><name></name></author><summary type="html">There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.</summary></entry><entry><title type="html">Solving Community Security with More Community, Not More Security</title><link href="http://localhost:4000/2015/05/23/community-space-key-policy.html" rel="alternate" type="text/html" title="Solving Community Security with More Community, Not More Security" /><published>2015-05-23T00:00:00-04:00</published><updated>2015-05-23T00:00:00-04:00</updated><id>http://localhost:4000/2015/05/23/community-space-key-policy</id><content type="html" xml:base="http://localhost:4000/2015/05/23/community-space-key-policy.html">&lt;p&gt;&lt;strong&gt;Problem: More Access = More Problems&lt;/strong&gt;&lt;/p&gt;
+weeks of HTTP Requests and Perl code (yes, I actually coded it, and yes in Perl), I walked over to the CFO’s office and showed her a chart of every single project currently going on. She asked one question “Why is that one red?”, I answered, she set a meeting.&lt;/p&gt;</content><author><name></name></author><summary type="html">There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.</summary></entry><entry><title type="html">Scaling Up</title><link href="http://localhost:4000/work/2008/08/03/scaling-up.html" rel="alternate" type="text/html" title="Scaling Up" /><published>2008-08-03T00:00:00-04:00</published><updated>2008-08-03T00:00:00-04:00</updated><id>http://localhost:4000/work/2008/08/03/scaling-up</id><content type="html" xml:base="http://localhost:4000/work/2008/08/03/scaling-up.html">&lt;p&gt;&lt;em&gt;How can design thinking and methods help organizations better understand their challenges and transform from the ground up?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;As my &lt;a href=&quot;http://catapultpgh.org&quot;&gt;coworking space&lt;/a&gt; gets larger, the space has been left open more often than I’d like. Some people suggested an alarm system or keyless entry system, some others suggested two membership tiers, a cheaper level without a key to the space, and a more expensive level with a key to the space–this would reduce the number of people with keys, hopefully increasing security. Aside from doors being left unlocked, there has been a growing concern of too many unknown/unvetted people around. The sense of security might be somehow related to a ratio of known versus unknown people in a space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Themes:&lt;/strong&gt; Patient Experience, Service and Organization Design, Design Research, Vision and Planning&lt;br /&gt;
+&lt;strong&gt;Goals:&lt;/strong&gt; Our team was engaged to examine patient experience within an out- patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation.&lt;/p&gt;
 
-&lt;p&gt;This isn’t the type of feeling I’m trying to promote, so there needed to be a change.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h4 id=&quot;why-i-didnt-choose-an-alarm-system&quot;&gt;Why I didn’t Choose an Alarm System&lt;/h4&gt;
+&lt;h2 id=&quot;broad-scope-and-unclear-problems&quot;&gt;Broad Scope and Unclear Problems&lt;/h2&gt;
 
-&lt;p&gt;When you have cameras in a space, or even sensors, you’re giving off a particular signal. When you walk in to a bank that has plate glass, you see what I mean. Also, I feared the only change would be instead of members using the door lock incorrectly, we’d have members using the alarm incorrectly.&lt;/p&gt;
+&lt;p&gt;BETHEL PARK, PENNSYLVANIA, eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region.&lt;/p&gt;
 
-&lt;h4 id=&quot;why-i-didnt-choose-to-reduce-the-number-of-keys&quot;&gt;Why I Didn’t Choose to Reduce The Number of Keys&lt;/h4&gt;
+&lt;p&gt;We began initial stakeholder interviews and toured the three story, 120,000 square foot facility. We were also briefed on prior research on patient satisfaction that had been conducted but never acted upon. The facility tour covered the building’s waiting areas, central cafe, and back-offices. Natural light entered the core of the build- ing through a central atrium. Our team photographed the interior and exterior physical plant, existing services, pathways, wayfinding systems, waiting areas, surgery and recovery rooms, staff offices, document storage, technology and tools, accessibility features, and more. Complete documentation helps design teams create accurate models and flow charts and keep them mentally “in place” while working in their own space.&lt;/p&gt;
 
-&lt;p&gt;I think the worse decision to make is associating trust with money. It seems like a subtle mental shortcut we make all the time. People with money must be more trustworthy… People can pay for trust. That would only mean that an outsider who wants to rip off the community would need 150usd instead of 50usd to get 20 macbook pros and a couple iMacs.&lt;/p&gt;
+&lt;p&gt;Documentation began even before the initial walk- through: our team struggled to find UPMC South Hills because the exterior signage was blocked by trees&lt;/p&gt;
 
-&lt;p&gt;Also, reducing the amount of keys isn’t a long term solution. If we want to grow as a community, we need &lt;em&gt;more&lt;/em&gt; access not less.&lt;/p&gt;
+&lt;p&gt;and the facility itself poorly marked and obscured from the main road. When we arrived and looked for the administrator’s office, the directory had well over a hundred listed locations, none of which included the admin’s office. Overhead signage also proved unhelpful.&lt;/p&gt;
 
-&lt;p&gt;Also also, by having different levels of access, there needs to be more “keeping track”, and lists, and things I’m just generally not interested in doing/maintaining.&lt;/p&gt;
+&lt;p&gt;While we branched out and conducted exploratory research in as many facilities as possible, eventually choosing the surgery center as an opportunity with the highest number of patient engagements on an annual basis.&lt;/p&gt;
 
-&lt;h3 id=&quot;someone-already-had-the-solution&quot;&gt;Someone Already Had the Solution&lt;/h3&gt;
+&lt;p&gt;We met Barry Hume and his wife Deborah. Barry was having knee replacement surgery and was referred to UPMC South Hills because of its proximity to their home. The Humes scheduled surgery day six weeks ahead of time and had two phone discussions with the nursing staff and received one final reminder and check- in phone call the day before surgery. They arrived at 8 AM, their first time at UPMC South Hills. To expedite patient arrival and to make them feel more welcome, the nursing staff waits outside a dedicated entrance for the surgery center and warmly refer to it as the “celebrity entrance.” Deborah left Barry with the nurse and parked their car.&lt;/p&gt;
 
-&lt;p&gt;Nothing is new, and for a lot of inspiration on how to run a work community, I look to Alex Hillman at &lt;a href=&quot;http://www.indyhall.org/&quot;&gt;IndyHall&lt;/a&gt;. He decided to put the responsibility of deciding who to trust back on the community. In his &lt;a href=&quot;http://dangerouslyawesome.com/2014/07/the-neighborhood-watch-method-for-coworking-space-security/&quot;&gt;Neighborhood Watch&lt;/a&gt; method, each new member has to get approval from several others to get a key.&lt;/p&gt;</content><author><name></name></author><category term="community" /><summary type="html">Problem: More Access = More Problems</summary></entry><entry><title type="html">Web Services Versus Mac Server</title><link href="http://localhost:4000/2015/02/28/web-services-vs-server.html" rel="alternate" type="text/html" title="Web Services Versus Mac Server" /><published>2015-02-28T00:00:00-05:00</published><updated>2015-02-28T00:00:00-05:00</updated><id>http://localhost:4000/2015/02/28/web-services-vs-server</id><content type="html" xml:base="http://localhost:4000/2015/02/28/web-services-vs-server.html">&lt;h2 id=&quot;original-motivations&quot;&gt;Original Motivations&lt;/h2&gt;
+&lt;p&gt;Our team shadowed Barry and Deborah. His surgery was successful and he spent the rest of the afternoon in recovery before being discharged at 5 PM. Both said they were pleased with the experience. This was echoed by many patients and family members: the experience is great. The staff makes patients feel as comfortable as possible; they check in on them in the days that follow; they express genuine care and concern for everyone’s wellbeing. These findings were also reflective in the internal surveys that our team inherited which showed an overwhelming levels of satisfaction. Three days later, the Humes brought a birthday cake for the nurse who took care of them.&lt;/p&gt;
 
-&lt;p&gt;It seems like one of my favorite types of procrastination is saving small recurring amounts of money. Despite the fact that a single dinner out costs more than any one of the web services I pay for, I still enjoy spending hours at night trying to save 7 dollars a month. To that effect, I’ve moved my VPS from Linode to Prgmr to Digital Ocean chasing 3 to 4 dollars of monthly savings and spending hours in the process migrating servers. I’ve done the same with my online backup setups, going from &lt;a href=&quot;https://www.backblaze.com/&quot;&gt;Backblaze&lt;/a&gt; to Arq over Amazon S3 and back again. But then I realized that there is only but so much optimization in reducing spending on web services one at a time, and also realized that &lt;strong&gt;sometimes solving 4 problems is easier than solving one&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/upmc1.png&quot; alt=&quot;service blueprint&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;financial&quot;&gt;Financial&lt;/h2&gt;
+&lt;h2 id=&quot;research-insights-and-problem-framing&quot;&gt;Research Insights and Problem Framing&lt;/h2&gt;
 
-&lt;p&gt;My list of services most likely looks pretty standard:&lt;/p&gt;
+&lt;p&gt;Our team conducted a broad spectrum of quantitative and qualitative research over four weeks: patient satisfaction surveys, check-in desk satisfaction surveys, staff surveys, mapping information flows, technology audits, unstructured interviews with patients, families, and staff, patient and staff shadowing, patient diaries, photo documentation, and more during the generative design phase like co-creation workshops.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Cost  Services          Use               Server Replacement
-----  --------          ---               ------------------
-5     Digital Ocean     VPS               I now ssh into my iMac
-5     BackBlaze         offsite backup    BTSync to mirror
-1.7   iTunes Match      music             Plex from iMac
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;These findings were mapped onto stakeholder charts, journey maps, blueprints, OMI (observation-mean- ing-implication** charts, data graphs, and narratives that captured patterns.&lt;/p&gt;
 
-&lt;p&gt;I spent 800 dollars for a 2011 iMac. This machine is actually slightly faster as per &lt;a href=&quot;http://browser.primatelabs.com/mac-benchmarks&quot;&gt;geekbench&lt;/a&gt; than my 2013 13” macbook pro. So it will take 3 years to pay off the iMac from savings in services. But, I ended up selling my 27 inch monitor back to my coworking space for 300 dollars, which means I will be able to pay off the iMac in 22 months instead.&lt;/p&gt;
+&lt;p&gt;Had our research at UPMC been solely analytical, only a partial picture would have emerged — patients would have been seen as broadly satisfied. Instead, by employing and synthesizing a variety of methods, deeper organizational issues were exposed:&lt;/p&gt;
 
-&lt;p&gt;If I tried slightly harder, I’m sure I could find replacement for Hulu Plus and instapaper speeding up the process even more, but with a 22 month pay off, in addition to other benefits, I’m more than satisfied.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Siloed offices with few staff members knowing the breadth of offerings at UPMC South Hills.&lt;/li&gt;
+  &lt;li&gt;Patients and staff alike lacked an understanding of the breath of services offered by the facility: referrals were made to patients outside of South Hills without realizing their needs could be met down the hall.&lt;/li&gt;
+  &lt;li&gt;A siloed organization with few staff members at South Hills understanding of corporate’s direction.&lt;/li&gt;
+  &lt;li&gt;At South Hills, a clean, bright space but an atmo- sphere that evoked a dead mall.&lt;/li&gt;
+  &lt;li&gt;Navigation and wayfinding challenges, posing significant issues for first time and elderly visitors.&lt;/li&gt;
+  &lt;li&gt;The centrally-located cafe and sitting area was closed most of the time and the space felt too clinical for what it was trying to be.&lt;/li&gt;
+  &lt;li&gt;Long periods of boredom for family members; little for them to engage with in waiting areas and a dreary cafe with sporadic hours.&lt;/li&gt;
+  &lt;li&gt;Information flow between offices was hindered by old tools and technology.&lt;/li&gt;
+  &lt;li&gt;Patients were bounced around: missing or erronous information and bad wayfinding led them to the wrong offices.&lt;/li&gt;
+  &lt;li&gt;The facility’s digital footprint lacked a clear listing of services offered, hours, and contact information. No brand cohesion existed across UPMC digital properties.&lt;/li&gt;
+  &lt;li&gt;Finding UPMC South Hills proved challenging for patients and families.&lt;/li&gt;
+  &lt;li&gt;UPMC South Hills had little name recognition in Bethel Park or surrounding towns. Our survey showed that the majority of respondents did not know the facility existed or that outpatient surgery was an option in their community.&lt;/li&gt;
+  &lt;li&gt;A plurality of respondents confused UPMC South Hills for St. Clair Hospital, a competitor across the street.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;other-benefits&quot;&gt;Other Benefits&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/upmc9.png&quot; alt=&quot;text&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;My desk is now much much cleaner.&lt;/p&gt;
+&lt;h2 id=&quot;prototyping-iterative-improvements&quot;&gt;Prototyping Iterative Improvements&lt;/h2&gt;
 
-&lt;p&gt;I don’t have to take a bag to work. This is actually bigger than I thought. The feeling of walking to work untethered is pretty amazing after an entire life of backpacks and messenger bags.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Redundancy&lt;/strong&gt; is a great benefit. I have a dead pixel on my macbook pro, and it’s not going to be an issue even if it needs to be sent away for a week since I’ve got an ipad and iMac to hold me over.&lt;/p&gt;
-
-&lt;h2 id=&quot;depreciation-path&quot;&gt;Depreciation Path&lt;/h2&gt;
-
-&lt;p&gt;In addition to the one to two years of this machine being my main work machine, I’ve already thought out other areas it could be useful. When it’s too slow for Photoshop, I could put this computer in my bedroom and have it be my night time media center. Just put [Plex][plex] into full screen mode and call it a day. After the processor is so slow it can’t run whatever beyond 4k idiocy we’re watching in the future, I can turn the machine on in &lt;a href=&quot;http://support.apple.com/en-us/HT3924&quot;&gt;Target Display Mode&lt;/a&gt; and run it as an external monitor.&lt;/p&gt;</content><author><name></name></author><summary type="html">Original Motivations</summary></entry><entry><title type="html">Starting a Coworking Space Doesn’t Have to Be Hard</title><link href="http://localhost:4000/2013/01/09/starting-a-coworking-space-doesnt-have-to-be-hard.html" rel="alternate" type="text/html" title="Starting a Coworking Space Doesn't Have to Be Hard" /><published>2013-01-09T00:00:00-05:00</published><updated>2013-01-09T00:00:00-05:00</updated><id>http://localhost:4000/2013/01/09/starting-a-coworking-space-doesnt-have-to-be-hard</id><content type="html" xml:base="http://localhost:4000/2013/01/09/starting-a-coworking-space-doesnt-have-to-be-hard.html">&lt;h2 id=&quot;getting-the-people&quot;&gt;Getting the people&lt;/h2&gt;
-
-&lt;p&gt;I got a grant from a local non-profit that allowed me to open a co-working space for one month. This grant included enough for rent, and that was about it. After one month, I had 12 people signed up and ready to go. After that landlord raised the rent by 50 percent, and after waiting to find a new space, I had 6 members left (it took 4 months to find a new home). This step isn’t that necessary, if you have people, get a space, if you don’t have people, don’t get a space. I started with only 6 people. If you built it, more will come.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-up-the-space&quot;&gt;Setting up the Space&lt;/h2&gt;
-
-&lt;h3 id=&quot;initial-costs&quot;&gt;Initial Costs&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7028/6690169969_0c6e466ecd.jpg&quot; width=&quot;500&quot; height=&quot;374&quot; alt=&quot;Untitled&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We were the first tenants in a space, 5139 Penn Ave., in the Garfield neighborhood of Pittsburgh. We’re on the same block as an art community space, a co-operative music venue, and an awesome pizza shop. The space isn’t the prettiest, but we’ve got 2000 square feet for about 1000 a month in rent, and the building is so well made that we’re paying less for heat than my one bedroom apartment.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1800 dollars for first and last months rent&lt;/li&gt;
-  &lt;li&gt;500 for 10 &lt;a href=&quot;http://www.ikea.com/us/en/catalog/products/50121453/&quot;&gt;Ikea Vika Amon Tables&lt;/a&gt; and legs&lt;/li&gt;
-  &lt;li&gt;500 for 10 &lt;a href=&quot;http://www.ikea.com/us/en/catalog/products/S99884539/&quot;&gt;Ikea Jules Swivle Chairs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;100 for several tables and chairs I scraped from craigslist&lt;/li&gt;
-  &lt;li&gt;0 for donated coffee grinder and chemex, utensils, dorm sized frig&lt;/li&gt;
-  &lt;li&gt;24 for 3 makeshift whiteboards (go to home depot and by 8’x4’ shower stall walls)&lt;/li&gt;
-  &lt;li&gt;15 for whiteboard markers&lt;/li&gt;
-  &lt;li&gt;60 for cloth hand towels (we have the cleaning girl wash and fold each week)&lt;/li&gt;
-  &lt;li&gt;600 for gas and electric deposits. This was an unexpected cost, apparently even if residents don’t have to leave deposits, businesses do. These were paid gradually over the first year.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;after-1-year&quot;&gt;After 1 Year&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8047/8364252645_b2bbb218e8.jpg&quot; width=&quot;500&quot; height=&quot;99&quot; alt=&quot;Screen Shot 2013-01-09 at 12.35.43 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Within the first year we paid ourselves back the complete initial investment.&lt;/p&gt;
-
-&lt;h3 id=&quot;current-programming&quot;&gt;Current “Programming”&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/jonnygoldstein/7142686425/&quot; title=&quot;Pittsburgh Tool Lending Library---Show 'n' Tell at CatapultPGH by jonny goldstein, on Flickr&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8152/7142686425_393f62e171.jpg&quot; width=&quot;500&quot; height=&quot;333&quot; alt=&quot;Pittsburgh Tool Lending Library---Show 'n' Tell at CatapultPGH&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Show-n-Tell&lt;/strong&gt;&lt;br /&gt;
-Each month we have 4 speakers who are doing cool projects around town, from electronic instrument making, to tool lending libraries.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Micro Loans&lt;/strong&gt;&lt;br /&gt;
-We have partneredairs and tables as we kept filling seats&lt;/p&gt;
-
-&lt;h3 id=&quot;re-occuring-costs&quot;&gt;Re-occuring Costs&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;900 for rent&lt;/li&gt;
-  &lt;li&gt;100 for internet&lt;/li&gt;
-  &lt;li&gt;100 for cleaning lady&lt;/li&gt;
-  &lt;li&gt;200 for electric&lt;/li&gt;
-  &lt;li&gt;100 for gas&lt;/li&gt;
-  &lt;li&gt;65 for coffee subscription&lt;/li&gt;
-  &lt;li&gt;35 for water subscription&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;1500&lt;/strong&gt; Total&lt;/p&gt;
-
-&lt;h3 id=&quot;membership-doesnt-have-to-be-hard-either&quot;&gt;Membership doesn’t have to be hard either.&lt;/h3&gt;
-
-&lt;p&gt;Right now we use freshbooks to send out monthly re-occuring invoices. All expenses are handled with freshbooks as well. Since we don’t set hard limits on days in the office, we don’t need any way to track or reserve. If we start getting too many part-timers, we’ll just buy more tables.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-upcoming-year&quot;&gt;The Upcoming Year&lt;/h2&gt;
-
-&lt;p&gt;I personally would consider the first year of &lt;a href=&quot;http://catapultpgh.org&quot;&gt;Catapult&lt;/a&gt; a success. My goal was to break even and pay myself back, and I did that. In addition, there are a million intangible benefits such as waking up each morning and getting to work in an awesome community of motivated people, being able to trade/barter services, learning Clojure, getting instant design critiques and instant design/code help, and offering just as much as I’m getting.&lt;/p&gt;
-
-&lt;p&gt;Moving forward, I don’t really know where this is going to go. Honestly, I feel like I’m not in control of it either. I always dream of getting a new building and shooting out an email to Catapult saying something like “hey guys, got this sweet new building for us, we’re moving two blocks down in the next 3 months” and then getting a unanimous response “that’s cool, we’ll stay here”. That would never happen, but the nagging image just reminds me that I’m not completely in control of where this group goes. We’re a community, and although I can foster and cultivate, I cannot really direct. I’m just &lt;em&gt;one&lt;/em&gt; lever on the machine. I am thinking of moving in with an artist friend and her cooperative of artists, thinking of rolling my own design work into the Catapult umbrella and turning this thing into a super ad-hock full stack design shop, but those are just dreams. We’ll see what the next year brings.&lt;/p&gt;</content><author><name></name></author><summary type="html">Getting the people</summary></entry><entry><title type="html">Pittsburgh Coffee Shop Rankings</title><link href="http://localhost:4000/coffee/2012/12/24/pittsburgh-coffee-shop-rankings.html" rel="alternate" type="text/html" title="Pittsburgh Coffee Shop Rankings" /><published>2012-12-24T00:00:00-05:00</published><updated>2012-12-24T00:00:00-05:00</updated><id>http://localhost:4000/coffee/2012/12/24/pittsburgh-coffee-shop-rankings</id><content type="html" xml:base="http://localhost:4000/coffee/2012/12/24/pittsburgh-coffee-shop-rankings.html">&lt;p&gt;This was a post a made on &lt;a href=&quot;http://nevertellmetheodds.org/t.php?id=120685#3483158&quot;&gt;nevertellmetheodds.org&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;Voluto was better before commonplace bought it. they had 49th parallels which were just better beans, even if they didn’t do the best job with them. I theorize that commonplace is not that good because everyone smokes and can’t taste food anyway. As far as rankings, here it is:&lt;/p&gt;
-
-&lt;h2 id=&quot;beans&quot;&gt;beans&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Marty’s&lt;/strong&gt;&lt;br /&gt;
-Marty’s Market has coava coffee right now. Coava is out of portland, they have direct relationships with farms, they roast some coffee especially for espresso, and they only do single origin. their beans are hit or miss, but when they nail it, it’s amazing. Go when Kira is working, tell her Elliott sent you, ask for an espresso and she will actually care about you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. 21st Street&lt;/strong&gt;&lt;br /&gt;
-21st street uses inteligentsia. I feel like they used to be the best, but lately I feel like I’m not in love with the way espresso turns out. Big Dog in the south side and a few other places also use their beans, but if only buy beans in the other shops, the staff isn’t nearly as knowledgeable as at 21 but I’ll get to that later.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Espresso a Mano&lt;/strong&gt;&lt;br /&gt;
-Espresso a Mano uses ritual. These guys are out of LA or SF I can’t remember. The shop out there seemed full of dbs, but their beans are pretty good. These beans are second teir compared to Coava and Intelli, but they are priced accordingly and I think a good value. Actually a really good value if you can’t afford the really good stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Tazz&lt;/strong&gt;&lt;br /&gt;
-Tazz uses Counter Culture. As you can see they are fourth on my list, but honestly get an espresso from Tazz and you won’t be that sad. They do a damn good job with what they have.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Common Place&lt;/strong&gt;&lt;br /&gt;
-There might be someone who roasts who is better, but I don’t know. They are everywhere you are, kelly’s, Common Place S.H. Voluto, Geet or whatever it’s called, probably in a bunch of restaurants. These are probably the best local beans you can get. Better than 19 or Zeek or any other. They are the best local, but still they are fifth.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;n. La Prima&lt;/strong&gt;&lt;br /&gt;
-La Prima (keep in mind this is bean quality), Crazy Mocha, Starbucks, Coffee Tree, etc. I want Coffee Tree to be good. The guys that own that place seem to care about coffee a lot, but for some reason it doesn’t trickle down through the staff and into my cup.&lt;/p&gt;
-
-&lt;h2 id=&quot;staff-knowledge-and-skill&quot;&gt;Staff Knowledge and Skill&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;1. 21st Street&lt;/strong&gt;&lt;br /&gt;
-If you want to learn about coffee go here. They are the best, and if you go to another shop (Espresso a Mano, Marty’s) cough cough, they might be trained by someone at 21. Ask a question here and get a legit answer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Marty’s&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;3. Commonplace&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;n. here and below I think it’s a wash&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;pour-over&quot;&gt;Pour over&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;1. 21&lt;/strong&gt;&lt;br /&gt;
-Pour overs don’t just take skill, they take taste buds. I would say more so than espresso. Marty’s I think just doesn’t have the bandwidth for pour overs, that’s cool, it will be a long time before they match up with 21st.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;n.&lt;/strong&gt;&lt;br /&gt;
-Honestly, if you want a pour over just go to 21.&lt;/p&gt;
-
-&lt;h2 id=&quot;espresso&quot;&gt;Espresso&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;1. 21 (anytime) and Marty’s (when Kira’s working)&lt;/strong&gt;&lt;br /&gt;
-I say this because 21st street is consistent as all hell. But even a blind squirrel can find a nut and in the case of marty’s, if you put great beans together with good equipment and someone who gives a damn you can’t go too far astray. I’ve been going to 21 for years and rarely have I had a bad shot. I’ve been going to Marty’s since they opened and maybe their average shot isn’t as good as 21, there have been a few that got me genuinely excited about espresso again. Maybe it’s just that 21/intelli has such a signature flavor profile, maybe it’s just that it’s new, but damn good espresso.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.Tazz&lt;/strong&gt;&lt;br /&gt;
-Seriously. They don’t have a Syneso, they don’t have amazing beans, but just go get one.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;n. It’s all a wash below these three spots&lt;/strong&gt;&lt;br /&gt;
-I will say that Big Dog is particularly bad. They espresso are more like old school longo or whatever those italians used to call them.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-in-summation&quot;&gt;So in summation:&lt;/h2&gt;
-&lt;p&gt;I buy Coava beans, get espressos at 21 and Marty’s and pour overs at 21.&lt;/p&gt;
-
-&lt;p&gt;I’m sure I’ve pissed off tons of people and I’m sure I’ve left out places like lillies or cat and dog or that convenience store that has 50 cent caps on butler. If I left out any place, it’s probably because they’re dirt. But just because I think it’s dirt doesn’t mean it is, and I never said there was anything wrong with dirt.&lt;/p&gt;</content><author><name></name></author><category term="coffee" /><summary type="html">This was a post a made on nevertellmetheodds.org:</summary></entry><entry><title type="html">I Always Give Cyclists the Same Advice</title><link href="http://localhost:4000/2012/08/16/i-always-give-cyclists-the-same-advice.html" rel="alternate" type="text/html" title="I Always Give Cyclists the Same Advice" /><published>2012-08-16T00:00:00-04:00</published><updated>2012-08-16T00:00:00-04:00</updated><id>http://localhost:4000/2012/08/16/i-always-give-cyclists-the-same-advice</id><content type="html" xml:base="http://localhost:4000/2012/08/16/i-always-give-cyclists-the-same-advice.html">&lt;p&gt;There’s a new law in PA to increase the safety of biking in cities. Cars can now cross the double yellow when passing bicycles and should always leave a 4 foot cushion between them and bicycles.&lt;/p&gt;
+&lt;p&gt;Some of the issues we identified had fairly direct vectors between problem and solution. We developed low-fidelity concepts, estimated cost/benefit, and ran short experiments by changing the physical space: making a cozier cafe space, improvements in wayfin- ding, adding comforts to the waiting rooms, added calming music to ad hoc “breather spaces,” designed simpler forms, and more.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The differential in speed is the biggest safety challenge with motor vehicles and bicycles sharing our state’s roadways&lt;/p&gt;
+  &lt;p&gt;Understanding ‘healthcare of the future’ begins with understanding people just as much as it does technology and advancements in medicine. For us, it meant leaving South Hills and integrating with the community…&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I’ve been a bike messenger, a commuter, and a general two wheeled fool in several cities for the last decade, and when people ask me for advice when biking in the city, I always give the same advice: &lt;em&gt;Ride Faster&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Steve Jobs and Henry Ford are both credited with saying that users don’t know what they want — that they can only talk about iterative changes, not transfor- mative ones. While it’s true that future visioning does not come naturally for most people, it becomes much easier when participants are prompted with artifacts to generate ideas and offer feedback.&lt;/p&gt;
 
-&lt;p&gt;via &lt;a href=&quot;http://www.dailylocal.com/article/20120328/NEWS03/120329524/-1/news/pennsylvania-s-new-bike-safety-law-goes-into-effect-april-2&quot;&gt;Daily Local&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">There’s a new law in PA to increase the safety of biking in cities. Cars can now cross the double yellow when passing bicycles and should always leave a 4 foot cushion between them and bicycles.</summary></entry><entry><title type="html">Catapult PGH Coworking Lease Agreement</title><link href="http://localhost:4000/2012/07/09/supersoft-sublease-agreement.html" rel="alternate" type="text/html" title="Catapult PGH Coworking Lease Agreement" /><published>2012-07-09T00:00:00-04:00</published><updated>2012-07-09T00:00:00-04:00</updated><id>http://localhost:4000/2012/07/09/supersoft-sublease-agreement</id><content type="html" xml:base="http://localhost:4000/2012/07/09/supersoft-sublease-agreement.html">&lt;p&gt;This &lt;strong&gt;Catapult PGH Lease Agreement&lt;/strong&gt; is made between Catapult PGH (also known as “The Organization Taking the Fall if Anything Happens”) and &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__ (hereinafter “The Person in need of Space”), together referred to as the “Parties”.&lt;/p&gt;
+&lt;p&gt;As we prototyped the cafe, waiting rooms, entrances, hallways, and processes, we gathered feedback through diaries, forms, and co-creation tools like sticker blueprints and drawings. It helped our team get a quick sense of what resonated and was flexible enough for instant adjustments. Methods like these also collected new ideas from the participants themselves. It was efficient, immediate, and cost-effective.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Whereas&lt;/strong&gt; Catapult PGH possess a bit of space and am choosing to share it with you, The Person in Need of Space, with the mutual understanding that we are both cool and that you will not be a jerk.&lt;/p&gt;
+&lt;h2 id=&quot;a-pivot-towards-the-future&quot;&gt;A Pivot Towards the Future&lt;/h2&gt;
 
-&lt;p&gt;Manners of being a jerk include, but are not limited to:&lt;/p&gt;
+&lt;p&gt;Our team was invited to meet with a corporate steering committee looking to improve experiences at their mid-size outpatient centers. Aside from addressing the poor wayfinding, brand awareness, and digital footprint, they asked us to scale up and envision how South Hills could become a “satellite facility of the future, serving as a model to others nationwide.”&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Using more than your fair share of amenities (electric, water, bandwidth, etc).&lt;/li&gt;
-  &lt;li&gt;Allowing your noise/stuff/smell/detritus to encroach on common spaces, or the space of others.&lt;/li&gt;
-  &lt;li&gt;Anything that would lead to permanent damage of the premises.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;It was an opportunity to reach ahead and not one that could be understood through linear, problem-solution thinking. Nor was the future going to be defined by moving furniture around. Prototyping new physical space has value in very direct ways to patients, families, and staff, but upstream work leads to more cohesive design with broader impact and cost efficiencies. The complexity is greater but so is the impact and value.&lt;/p&gt;
 
-&lt;p&gt;The Parties agree that the Person in Need of Space shall lease from Catapult PGH in the premises located at 5139 Penn Ave. PGH PA 15224 on the following terms:&lt;/p&gt;
+&lt;p&gt;We conducted another competitive analysis to understand innovative approaches to healthcare delivery around the world. At the time, “design thinking” was a relatively new term to business, and outside of Mayo Clinic we were the only ones explicitly practicing service and organization design. And we knew that whatever we learned from competition would merely inform us but not help us design models for Western Pennsylvania. Successful design solutions are suc- cessful in part because of contextuality. An idea that resonates in Rochester, Minnesota is never guaranteed to work in Bethel Park, Pennsylvania or Downtown Pittsburgh. Factors that influence the success of a design outcome: nuanced market demands, community and culture, workforce culture, staffing models, and more. Giving all solutions the broader organizational support would be crucial to a impactful change.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;. The Term of this Agreement shall continue as long as the Parties are cool with it.&lt;/p&gt;
+&lt;p&gt;Understanding “healthcare of the future” begins with understanding people just as much as it does technol- ogy and advancements in medicine. For us, it meant leaving South Hills and integrating with the community, starting at a nearby mall on a Tuesday morning. The research was completely informal, unstructured, and randomly selected. We bought coffee for mall-walkers, talked with employees, and recorded their stories. No data came from it aside from the revelation that asking “what does the ‘future of healthcare’ look like to you” yields almost no tangible insights. Like product design, unless people are guided in specific ways to think about the future, they will struggle to articulate it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Rent&lt;/strong&gt;. The Person in Need of Space will pay a total of $&lt;strong&gt;__&lt;/strong&gt;__ per month. Rent will be payable on the first day of each month directly to The Organization Taking the Fall if Anything Happens.&lt;/p&gt;
+&lt;p&gt;Most research methods are focused on the cusp of iterative change; far-futuring activities yield tropes of science fiction. We needed to understand latent needs but thirty years out. To complicate the research, healthcare is sensitive for people. Each participant brings their own experiences and openness may be hard for many. And lastly, thinking thirty years in the future was an entirely unreasonable proposition for the aging population of Bethel Park.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Breach&lt;/strong&gt;. This agreement has absolutely no legal binding. However, upon breach or violation of the agreement, I will feel free to do any of the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/upmc6.jpg&quot; alt=&quot;juicers&quot; /&gt;
+We employed a remapping technique to understand the values of individuals and community ethos: prompted with a set of four image cards per question, users were asked “if healthcare in the future were” one of the&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Eat anything you left behind, even if it is non-edible.&lt;/li&gt;
-  &lt;li&gt;Talk about what a jerk you are on whatever current social network is most important to you.&lt;/li&gt;
-  &lt;li&gt;Write a haiku about your mom.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;four juicers, one of the four magazines, one of the four vacation spots, one of the four cars, “which one would it be and why?” The choices they made were irrelevant to us; what mattered was their justification: “I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.”&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Termination&lt;/strong&gt;. Termination of this agreement can be executed by either party, but don’t be a jerk, give some notice.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;You are acknowledging and agreeing to this document by reading it. If you find any part of this agreement uncomfortable or confusing, don’t sweat it.  If you can follow the spirit of the document, and not be a jerk, I’m sure we’ll get along fine.&lt;/p&gt;
+&lt;p&gt;Between juicers, vacations, and media, we collected hundreds of data points that spoke to desires of comfort, accessibility, brightness, efficiency, happi- ness, peace, relaxation, individuality, immediacy, and simplicity. We ran a linguistic analysis and the results helped us construct a vertical map defined by the community itself.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://randsinrepose.com/&quot;&gt;Rand’s&lt;/a&gt; &lt;a href=&quot;http://www.friendda.org/&quot;&gt;work&lt;/a&gt; with NDAs inspired this document, so I felt I should make sure he gets credit. &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;©&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This Catapult PGH Lease Agreement is made between Catapult PGH (also known as “The Organization Taking the Fall if Anything Happens”) and ______ (hereinafter “The Person in need of Space”), together referred to as the “Parties”.</summary></entry></feed>
+&lt;p&gt;The vertical map stemmed from the lack of vision for South Hills and UPMC’s many other satellite facilities. While we could continue to prototype valuable ground-level changes to influence patient experience, they needed to be part of a broader plan, a strategy, and a vision — one that balanced stakeholder perspectives and constraints, patient-centered values, and commu- nity ethos.&lt;/p&gt;
+
+&lt;p&gt;Every organization creates mission, vision, and values statements. Sometimes those are loosely tied to strategic plans. Rarely are those aspirational narratives tied to action plans, and if they are they remain high level. While they can be motivational for members of the organization, they are often times too abstract.&lt;/p&gt;
+
+&lt;p&gt;This framework articulates the vision statement with clear principles, and goals share and ladder up to those principles. Goals and associated projects can be mapped to budgets, timelines, teams and business units, KPIs and OKRs. Operationalizing a vertical map is like enacting a budget plan — but the vertical map is a structured and action-oriented narrative instead of numbers.&lt;/p&gt;
+
+&lt;p&gt;With other clients, our vertical maps have adapted to unique organizational structures and needs. Multiple visions, for instance, all under a company-wide vision; strategic plans inserted between goals and principles; workstreams at the bottom with teams in place to execute. Like all good design, it responds to context, flexing to the realities. It creates order from the messiness, and legibility and clarity amidst the layers of complexity.&lt;/p&gt;
+
+&lt;p&gt;At UPMC, the vertical map was delivered as part of a larger comprehensive strategy and workbook that detailed project possibilities, proposed strategies, cost-benefit, research insights, and a high-level road- map for action. Success would depend on empowering people across the organization with tools, fostering the work, and iterating to make sure solutions have resilience.&lt;/p&gt;
+
+&lt;p&gt;Design is a values-driven and action-oriented profes- sion. We sought to create a healthier organization and healthier community through the patient’s eyes.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;summary-of-process&quot;&gt;Summary of Process&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Frame: A thorough review of existing research and initaitives; familiarization with connections and roles of business units; cross-stakeholder workshops defined the problem space.&lt;/li&gt;
+  &lt;li&gt;Research: Extensive ethnographic research was turned into actionable models: blueprints, process maps, data graphs, narratives and more.&lt;/li&gt;
+  &lt;li&gt;Ideate: We created new futures through collaborative design methods and turned those methods into concepts that could be tested and iterated upon.&lt;/li&gt;
+  &lt;li&gt;Build: The vertical map was developed with articulated plans for actionable projects. We validated and roadmapped the projects.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="case-study" /><summary type="html">How can design thinking and methods help organizations better understand their challenges and transform from the ground up?</summary></entry></feed>

@@ -7,7 +7,6 @@ subtitle: How strategy, culture, and design can create new business lines in a w
 tags: case-study
 ---
 
-*How strategy, culture, and design can create new business lines in a well established company.*
 
 **Themes:** Process and Planning, Strategy, Technology, Entrepreneurship
 
