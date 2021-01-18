@@ -9,7 +9,7 @@ General Styles
 
 body {
 	background: #fff;
-	font: 14px/1.8 "Poppins", sans-serif;
+	font: 14px/1.8 'Poppins', sans-serif;
 	letter-spacing: .05em;
 	color: #777;
 	overflow-x: hidden;
@@ -172,7 +172,7 @@ blockquote.serif-quote {
 }
 
 .font-alt {
-	font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	line-height: 200%;
@@ -185,7 +185,7 @@ blockquote.serif-quote {
 }
 
 b {
-	font-family: "Poppins-600", sans-serif;
+	font-family: 'Poppins-600', sans-serif;
 	font-weight: bold;
 }
 
