@@ -1136,7 +1136,7 @@ Navigation
 .navbar-custom .dropdown-menu > li > a:focus,
 .navbar-custom .dropdown-menu > li > a:hover {
 	background: none;
-	color: #D62338;
+	color: rgba(255, 255, 255, 0.7);
 }
 
 .show-overlay .icon-bar {
@@ -1183,7 +1183,7 @@ Navigation
 .navbar-transparent.dropdown-menu > li > a:focus,
 .navbar-transparent .dropdown-menu > li > a:hover {
 	background: none;
-	color: #D62338;
+	color: rgba(255, 255, 255, 0.7);
 }
 
 .navbar-transparent .show-overlay .icon-bar {
@@ -1308,7 +1308,7 @@ Navigation
 }
 
 #nav li a:hover, #nav li a.active {
-	color: #fff;
+	color: #D62328;
 }
 
 #nav li ul {
