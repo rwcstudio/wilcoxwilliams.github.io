@@ -1,23 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:400italic");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700");
-
-@font-face {
-  font-family: 'UniversLTStd';
-  src: url('../fonts/UniversLTStd.eot');
-  src: url('../fonts/UniversLTStd.eot') format('embedded-opentype'), url('../fonts/UniversLTStd.woff2') format('woff2'), url('../fonts/UniversLTStd.woff') format('woff'), url('../fonts/UniversLTStd.ttf') format('truetype'), url('../fonts/UniversLTStd.svg#UniversLTStd') format('svg');
-}
-@font-face {
-  font-family: 'UniversLTStd-Bold';
-  src: url('../fonts/UniversLTStd-Bold.eot');
-  src: url('../fonts/UniversLTStd-Bold.eot') format('embedded-opentype'), url('../fonts/UniversLTStd-Bold.woff2') format('woff2'), url('../fonts/UniversLTStd-Bold.woff') format('woff'), url('../fonts/UniversLTStd-Bold.ttf') format('truetype'), url('../fonts/UniversLTStd-Bold.svg#UniversLTStd') format('svg');
-}
-@font-face {
-  font-family: 'UniversLTStd-Light';
-  src: url('../fonts/UniversLTStd-Light.eot');
-  src: url('../fonts/UniversLTStd-Light.eot') format('embedded-opentype'), url('../fonts/UniversLTStd-Light.woff2') format('woff2'), url('../fonts/UniversLTStd-Light.woff') format('woff'), url('../fonts/UniversLTStd-Light.ttf') format('truetype'), url('../fonts/UniversLTStd-Light.svg#UniversLTStd') format('svg');
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* ------------------------------------------------------------------
 General Styles
@@ -25,8 +9,7 @@ General Styles
 
 body {
 	background: #fff;
-	font: 14px/1.8 "UniversLTStd", sans-serif;
-	letter-spacing: .05em;
+	font: 14px/1.8 'Poppins', sans-serif;
 	color: #777;
 	overflow-x: hidden;
 	-ms-overflow-style: scrollbar;
@@ -120,7 +103,7 @@ a {
 
 a:hover, a:focus {
 	text-decoration: none;
-	color: #000;
+	color: #D62338;
 	outline: 0;
 }
 
@@ -188,7 +171,7 @@ blockquote.serif-quote {
 }
 
 .font-alt {
-	font-family: "UniversLTStd", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	line-height: 200%;
@@ -201,7 +184,7 @@ blockquote.serif-quote {
 }
 
 b {
-	font-family: "UniversLTStd-Bold", sans-serif;
+	font-family: 'Poppins 600', sans-serif;
 	font-weight: bold;
 }
 
@@ -216,7 +199,7 @@ Forms
 .form-control {
 	border: 2px solid #eee;
 	height: 33px;
-	font-family: "UniversLTStd", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0px;
 	font-size: 12px;
 	-webkit-border-radius: 2px;
@@ -1005,7 +988,7 @@ Overlays
 }
 
 .bg-dark {
-	background-color: #111;
+	background-color: #282828;
 	height: 100%;
 	width: 100%;
 }
@@ -1317,15 +1300,15 @@ Navigation
 }
 
 #nav > li > a {
-	font-family: "UniversLTStd-Light", sans-serif;
+	font-family: 'Poppins 300', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-size: 28px;
-	color: #FDFDFD;
+	color: #D62328;
 }
 
 #nav li a:hover, #nav li a.active {
-	color: #fff;
+	color: #D62328;
 }
 
 #nav li ul {
@@ -1340,7 +1323,7 @@ Navigation
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 11px;
-	color: #666;
+	color: #D62328;
 }
 
 /* ------------------------------------------------------------------
