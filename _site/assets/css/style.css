@@ -9,8 +9,7 @@ General Styles
 
 body {
 	background: #fff;
-	font: 14px/1.8 "Poppins", sans-serif;
-	letter-spacing: .05em;
+	font: 14px/1.8 'Poppins', sans-serif;
 	color: #777;
 	overflow-x: hidden;
 	-ms-overflow-style: scrollbar;
@@ -104,7 +103,7 @@ a {
 
 a:hover, a:focus {
 	text-decoration: none;
-	color: #000;
+	color: #D62338;
 	outline: 0;
 }
 
@@ -172,7 +171,7 @@ blockquote.serif-quote {
 }
 
 .font-alt {
-	font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	line-height: 200%;
@@ -185,7 +184,7 @@ blockquote.serif-quote {
 }
 
 b {
-	font-family: "Poppins-600", sans-serif;
+	font-family: 'Poppins 600', sans-serif;
 	font-weight: bold;
 }
 
@@ -200,7 +199,7 @@ Forms
 .form-control {
 	border: 2px solid #eee;
 	height: 33px;
-	font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0px;
 	font-size: 12px;
 	-webkit-border-radius: 2px;
@@ -989,7 +988,7 @@ Overlays
 }
 
 .bg-dark {
-	background-color: #111;
+	background-color: #282828;
 	height: 100%;
 	width: 100%;
 }
@@ -1301,15 +1300,15 @@ Navigation
 }
 
 #nav > li > a {
-	font-family: "Poppins-300", sans-serif;
+	font-family: 'Poppins 300', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-size: 28px;
-	color: #FDFDFD;
+	color: #D62328;
 }
 
 #nav li a:hover, #nav li a.active {
-	color: #fff;
+	color: #D62328;
 }
 
 #nav li ul {
@@ -1324,7 +1323,7 @@ Navigation
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 11px;
-	color: #666;
+	color: #D62328;
 }
 
 /* ------------------------------------------------------------------
