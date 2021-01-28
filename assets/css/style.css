@@ -1304,11 +1304,11 @@ Navigation
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-size: 28px;
-	color: #D62328;
+	color: #FDFDFD;
 }
 
 #nav li a:hover, #nav li a.active {
-	color: #D62328;
+	color: #fff;
 }
 
 #nav li ul {
@@ -1323,7 +1323,7 @@ Navigation
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-size: 11px;
-	color: #D62328;
+	color: #666;
 }
 
 /* ------------------------------------------------------------------
