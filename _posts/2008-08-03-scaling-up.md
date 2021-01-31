@@ -7,7 +7,7 @@ subtitle: How can design thinking and methods help organizations better understa
 categories: work
 image_fullwidth: "/assets/images/upmc1.png"
 tags: case-study
-abstract: BETHEL PARK, PENNSYLVANIA, eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region. 
+abstract: Eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region. 
 ---
 How can design thinking and methods help organizations better understand their challenges and transform from the ground up?
 
@@ -19,7 +19,7 @@ Goals: Our team was engaged to examine patient experience within an out- patient
 
 ## Broad Scope and Unclear Problems 
 
-BETHEL PARK, PENNSYLVANIA, eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region. 
+Bethel Park, Pennsylvania, eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region. 
 
 We began initial stakeholder interviews and toured the three story, 120,000 square foot facility. We were also briefed on prior research on patient satisfaction that had been conducted but never acted upon. The facility tour covered the building’s waiting areas, central cafe, and back-offices. Natural light entered the core of the build- ing through a central atrium. Our team photographed the interior and exterior physical plant, existing services, pathways, wayfinding systems, waiting areas, surgery and recovery rooms, staff offices, document storage, technology and tools, accessibility features, and more. Complete documentation helps design teams create accurate models and flow charts and keep them mentally “in place” while working in their own space. 
 
