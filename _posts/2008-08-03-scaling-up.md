@@ -7,7 +7,7 @@ subtitle: How can design thinking and methods help organizations better understa
 categories: work
 image_fullwidth: "/assets/images/upmc1.png"
 tags: Case Study, Patient Experience, Service Design, Organization Design, Design Research, Vision and Planning
-abstract: Our team was engaged to examine patient experience within an out- patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation. 
+abstract: Our team was engaged to examine patient experience within an out-patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation. 
 ---
 
 ***
