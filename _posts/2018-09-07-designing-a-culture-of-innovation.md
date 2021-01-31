@@ -6,7 +6,7 @@ date:   2018-09-07
 categories: work
 subtitle: How strategy, culture, and design can create new business lines in a well established company.
 tags: case-study
-abstract: TNB, The National Bank, had made huge strides in technology while also keeping their core products moving forward at a conservative pace. This strategy served them well, but they realized to create true innovation — from organizational culture to the tech stack — even the location of the offices needed to change to attract a different kind of talent. The bank, however, still needed to remain at arm’s length. Finlabs, a wholly-owned subsidiary, was created to focus solely on the creation of new financial products and services with the plan to have half of those spin out into separate legal entities, and the other half to go back into the bank and enrich its current offerings. 
+abstract: TNB Bank had made huge strides in technology while also keeping their core products moving forward at a conservative pace. This strategy served them well, but they realized to create true innovation — from organizational culture to the tech stack — even the location of the offices needed to change to attract a different kind of talent. The bank, however, still needed to remain at arm’s length. Finlabs, a wholly-owned subsidiary, was created to focus solely on the creation of new financial products and services with the plan to have half of those spin out into separate legal entities, and the other half to go back into the bank and enrich its current offerings. 
 
 ---
 

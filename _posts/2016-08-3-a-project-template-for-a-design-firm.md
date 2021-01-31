@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Elliott Williams
 title:  "Designing for Collective Accountability"
+author: Elliott Williams
 date:   2015-11-25
 categories: work
 subtitle: There is one situation that all designers — at least this designer — loves and fears at the same time: working for another designer.
