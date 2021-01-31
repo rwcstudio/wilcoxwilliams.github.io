@@ -8,16 +8,16 @@ layout: default
 				<div class="row">
 					  <div class="col-sm-12 col-md-10 col-lg-10">
 					      <h2 class="font-serif">
-						        <br><br><br>Our heads are always in the future.<br><br><br>
+						        Our heads are always in the future.
 					      </h2>
 					  </div>
 				</div>
 		</div>
 	</section>
 
-  {% for post in site.posts %}
 <section id="posts" class="module-small">
 			<div class="container">
+  {% for post in site.posts %}
 				<!-- MODULE TITLE -->
 				<div class="row">
 					<div class="col-sm-12 col-md-9 col-lg-9"><hr>
@@ -29,9 +29,6 @@ layout: default
                 {{ post.abstract }}
             </p>
 						<h5>by {{ post.author }} | <a href="{{ post.url }}">Read More &#8594;</a></h5>
-					</div>
-					<div class="col-sm-0 col-md-3 col-lg-3">
-						&emsp;
 					</div>
 				</div>
 			</div>
