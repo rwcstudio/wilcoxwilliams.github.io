@@ -5,7 +5,7 @@ author: Elliott Williams
 date:   2015-11-25
 categories: work
 subtitle: There is one situation that all designers — at least this designer — loves and fears at the same time: working for another designer.
-tags: Case-Study, Internal-Service Design, Operations, Project-Management, Process-and-Collaboration
+tags: Case Study, Internal Service Design, Operations, Project Management, Process and Collaboration
 abstract: The assignment was to develop a template for design projects. The client was a design firm of 35 people, and would have small teams of 2 to 5 people work projects, but there was no consistent process moving from business lead to contract through completion. A template would allow there to be a unified checklist, making sure a few tasks were always completed, no matter what the project, and it could also be a working document that the teams used to move towards completion. The first step in one of my organizational projects, after all of the contracts are signed, is scoping the project. This project was not only a complex beast of information, procedure, and people, but it also existed in a larger context, the design firm itself and branched off into HR, Sales, and Management.
 ---
 
