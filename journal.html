@@ -13,7 +13,9 @@ layout: default
 					  </div>
 				</div>
 		</div>
+	</section>
 
+<section id="posts" class="module">
   {% for post in site.posts %}
 			<div class="container">
 				<!-- MODULE TITLE -->
@@ -26,7 +28,7 @@ layout: default
 						<p>
                 {{ post.abstract }}
             </p>
-						<h6>by {{ post.author }}</h6>
+						<h5><a href="{{ post.url }}">Read More &#8594;</a> | by {{ post.author }}</h5>
 					</div>
 					<div class="col-sm-0 col-md-3 col-lg-3">
 						&emsp;
