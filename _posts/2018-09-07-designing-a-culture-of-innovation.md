@@ -11,9 +11,9 @@ abstract: TNB, The National Bank, had made huge strides in technology while also
 ---
 
 
-**Themes:** Process and Planning, Strategy, Technology, Entrepreneurship
+Themes: Process and Planning, Strategy, Technology, Entrepreneurship
 
-**Goals:** Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies. 
+Goals: Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies. 
 
 ## An Innovation Hub Trying to Find its Footing 
 

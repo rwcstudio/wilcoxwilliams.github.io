@@ -2,16 +2,17 @@
 layout: post
 title:  "Scaling Up"
 date:   2008-08-3
-author: Alex Cheek
+author: Alex Wilcox Cheek
+subtitle: How can design thinking and methods help organizations better understand their challenges and transform from the ground up?
 categories: work
 image_fullwidth: "/assets/images/upmc1.png"
 tags: case-study
 abstract: BETHEL PARK, PENNSYLVANIA, eight miles south of Pittsburgh, is a middle class suburb with an aging population. UPMC South Hills, an outpatient facility that was built in the 1990s, had grown to include cardiology, endocrine surgery, gastroenterology, neurosurgery, obstetrics and gynecology, ophthalmology, orthopedics, primary care and internal medicine, urology, diagnostic imaging, lab services, physical therapy, and a walk-in clinic. More broadly, UPMC’s network was also expanding, opening and acquiring dozens of clinics and hospitals in the region. 
 ---
-*How can design thinking and methods help organizations better understand their challenges and transform from the ground up?*
+How can design thinking and methods help organizations better understand their challenges and transform from the ground up?
 
-**Themes:** Patient Experience, Service and Organization Design, Design Research, Vision and Planning  
-**Goals:** Our team was engaged to examine patient experience within an out- patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation. 
+Themes: Patient Experience, Service and Organization Design, Design Research, Vision and Planning  
+Goals: Our team was engaged to examine patient experience within an out- patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation. 
 
 ***
 
