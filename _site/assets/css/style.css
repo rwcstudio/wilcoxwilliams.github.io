@@ -10,7 +10,7 @@ General Styles
 body {
 	background: #fff;
 	font: 14px/1.8 'Poppins', sans-serif;
-	color: #777;
+	color: #111;
 	overflow-x: hidden;
 	-ms-overflow-style: scrollbar;
 }
@@ -98,7 +98,7 @@ Typography
 ------------------------------------------------------------------- */
 
 a {
-	color: #777;
+	color: #111;
 }
 
 a:hover, a:focus {
@@ -129,7 +129,7 @@ a:hover, a:focus {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	line-height: 1.8;
 	font-weight: 400;
-	color: #333;
+	color: #111;
 }
 
 h1, .h1 {
